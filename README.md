@@ -14,11 +14,11 @@ I am an AI Engineer working for the startup Accioo. My academic interest are in 
 
 ## Projects
 
-![cancer project](https://github.com/aamirsahil/aamirsahil/images/wsi.png?raw=true)
-![Reinforcement Learning](https://github.com/aamirsahil/aamirsahil/images/rl.png?raw=true)
-![Foot ball](https://github.com/aamirsahil/aamirsahil/images/football.png?raw=true)
-![Bernoulli](https://github.com/aamirsahil/aamirsahil/images/bernoulli.png?raw=true)
-![Vicsek](https://github.com/aamirsahil/aamirsahil/images/vicsek.png?raw=true)
+![cancer project](https://github.com/aamirsahil/aamirsahil/blob/main/images/wsi.png?raw=true)
+![Reinforcement Learning](https://github.com/aamirsahil/blob/main/aamirsahil/images/rl.png?raw=true)
+![Foot ball](https://github.com/aamirsahil/aamirsahil/blob/main/images/football.png?raw=true)
+![Bernoulli](https://github.com/aamirsahil/aamirsahil/blob/main/images/bernoulli.png?raw=true)
+![Vicsek](https://github.com/aamirsahil/aamirsahil/blob/main/images/vicsek.png?raw=true)
 
 
 ## Tech Stack
