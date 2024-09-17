@@ -16,8 +16,8 @@ I am an AI Engineer working for the startup Accioo. My academic interest are in 
 
 <!-- First row of 3 images -->
 <p align="center">
-  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/wsi.png?raw=true" width="30%" height="30%" alt="Image 1 Subtitle" />
-  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/rl.png?raw=true" width="30%" height="30%" alt="Image 2 Subtitle" />
+  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/wsi.png?raw=true" width="30%" height="30px" alt="Image 1 Subtitle" />
+  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/rl.png?raw=true" width="30%" height="30px" alt="Image 2 Subtitle" />
   <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/football.png?raw=true" width="30%" height="30%" alt="Image 3 Subtitle" />
 </p>
 
