@@ -9,8 +9,8 @@ I am an AI Engineer working for the startup Accioo. My academic interest are in 
 ## 🚀 About Me
 
 - 🔭 I'm currently an AI Enginner at Accioo.
-- 📝 I excel at converting mathematical theory into actionable insight.
-- 🌱 I'm currently working on a game that captures the life of 18th century Kerala.
+- ⚡ I excel at converting mathematical theory into actionable insight.
+- 😄 I'm currently working on a game that captures the life of 18th century Kerala.
 
 
 ## Tech Stack
@@ -23,7 +23,7 @@ I am an AI Engineer working for the startup Accioo. My academic interest are in 
 - Building automatic audiobook generator with sentiment analysis capability.
 - Classical Guitar.
 
- ## 🏆 Achievements
+ ## 📝 Papers
 
 - Self-organization of selfishness: Reinforcement learning shows how selfish behavior can emerge
 from agent-environment interaction dynamics
