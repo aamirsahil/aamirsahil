@@ -74,7 +74,7 @@ structure of text passages modulate mental simulation of perspective
 
 ## Get in Touch
 
-- Connect with me on [Gmail](notifysahil@gmail.com)
+- Connect with me on [Gmail](notifysahil@gmail.com) | [Linkedin](https://www.linkedin.com/in/aamir-sahil-chandroth-960104178/)
 
 <!--
 
