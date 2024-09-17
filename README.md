@@ -14,12 +14,39 @@ I am an AI Engineer working for the startup Accioo. My academic interest are in 
 
 ## Projects
 
-![cancer project](https://github.com/aamirsahil/aamirsahil/blob/main/images/wsi.png?raw=true "Whole Slide Image Segmentation")
-![Reinforcement Learning](https://github.com/aamirsahil/aamirsahil/blob/main/images/rl.png?raw=true)
-![Foot ball](https://github.com/aamirsahil/aamirsahil/blob/main/images/football.png?raw=true)
-![Bernoulli](https://github.com/aamirsahil/aamirsahil/blob/main/images/bernoulli.png?raw=true)
-![Vicsek](https://github.com/aamirsahil/aamirsahil/blob/main/images/vicsek.png?raw=true)
+<!-- First row of 3 images -->
+<p align="center">
+  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/wsi.png?raw=true" width="30%" alt="Image 1 Subtitle" />
+  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/rl.png?raw=true" width="30%" alt="Image 2 Subtitle" />
+  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/football.png?raw=true" width="30%" alt="Image 3 Subtitle" />
+</p>
 
+<!-- Subtitles for the first row -->
+<p align="center">
+  <b>Image 1 Subtitle</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Image 2 Subtitle</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Image 3 Subtitle</b>
+</p>
+
+<!-- Second row of 2 images -->
+<p align="center">
+  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/bernoulli.png?raw=true" width="45%" alt="Image 4 Subtitle" />
+  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/vicsek.png?raw=true" width="45%" alt="Image 5 Subtitle" />
+</p>
+
+<!-- Subtitles for the second row -->
+<p align="center">
+  <b>Image 4 Subtitle</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Image 5 Subtitle</b>
+</p>
+
+<!--
+![cancer project]( "Whole Slide Image Segmentation")
+![Reinforcement Learning]()
+![Foot ball]()
+![Bernoulli]()
+![Vicsek]()
+-->
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,py,cpp,unity,js,html,css)](https://skillicons.dev)
