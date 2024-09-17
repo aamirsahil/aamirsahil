@@ -12,6 +12,14 @@ I am an AI Engineer working for the startup Accioo. My academic interest are in 
 - ⚡ I excel at converting mathematical theory into actionable insight.
 - 😄 I'm currently working on a game that captures the life of 18th century Kerala.
 
+## Projects
+
+![cancer project](https://github.com/aamirsahil/aamirsahil/images/wsi.png?raw=true)
+![Reinforcement Learning](https://github.com/aamirsahil/aamirsahil/images/rl.png?raw=true)
+![Foot ball](https://github.com/aamirsahil/aamirsahil/images/football.png?raw=true)
+![Bernoulli](https://github.com/aamirsahil/aamirsahil/images/bernoulli.png?raw=true)
+![Vicsek](https://github.com/aamirsahil/aamirsahil/images/vicsek.png?raw=true)
+
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,py,cpp,unity,js,html,css)](https://skillicons.dev)
