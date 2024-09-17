@@ -2,7 +2,9 @@
 
 I am an AI Engineer working for the startup Accioo. My academic interest are in the field of computational physics and it's application in real world scenerio.
 
+<!--
 ![Aamirs's Stats](https://github-readme-stats.vercel.app/api?username=aamirsahil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+-->
 
 ## 🚀 About Me
 
