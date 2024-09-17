@@ -1,4 +1,4 @@
-# Hi, I'm Aamir! 👋
+# Aamir Sahil Chandroth
 
 I am an AI Engineer working for the startup Accioo. My academic interest are in the field of computational physics and it's application in real world scenerio.
 
@@ -6,11 +6,11 @@ I am an AI Engineer working for the startup Accioo. My academic interest are in 
 ![Aamirs's Stats](https://github-readme-stats.vercel.app/api?username=aamirsahil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 -->
 
-## 🚀 About Me
+## About Me
 
-- 🔭 I'm currently an AI Enginner at Accioo.
-- ⚡ I excel at converting mathematical theory into actionable insight.
-- 😄 I'm currently working on a game that captures the life of 18th century Kerala.
+- I'm currently an AI Enginner at Accioo.
+- I excel at converting mathematical theory into actionable insight.
+- I'm currently working on a game that captures the life of 18th century Kerala.
 
 ## Projects
 
@@ -55,14 +55,14 @@ I am an AI Engineer working for the startup Accioo. My academic interest are in 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,py,cpp,unity,js,html,css)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - Exploring the intersection of physics, computer science and biology.
 - Building and deploying language models to solve domain specific problems.
 - Building automatic audiobook generator with sentiment analysis capability.
 - Classical Guitar.
 
- ## 📝 Papers
+ ## Papers
 
 - Self-organization of selfishness: Reinforcement learning shows how selfish behavior can emerge
 from agent-environment interaction dynamics
@@ -72,7 +72,7 @@ structure of text passages modulate mental simulation of perspective
 - Talks on Role of Simulation in Classrooms
 
 
-## 📬 Get in Touch
+## Get in Touch
 
 - Connect with me on [Gmail](notifysahil@gmail.com)
 
