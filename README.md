@@ -1,7 +1,41 @@
-## Hi there 👋
+# Hi, I'm Aamir! 👋
+
+I am an AI Engineer working for the startup Accioo. My academic interest are in the field of computational physics and it's application in real world scenerio.
+
+![Aamirs's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🔭 I'm currently an AI Enginner at Accioo.
+- 📝 I excel at converting mathematical theory into actionable insight.
+- 🌱 I'm currently working on a game that captures the life of 18th century Kerala.
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,py,cpp,unity,js,html,css)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- Exploring the intersection of physics, computer science and biology.
+- Building and deploying language models to solve domain specific problems.
+- Building automatic audiobook generator with sentiment analysis capability.
+- Classical Guitar.
+
+ ## 🏆 Achievements
+
+- Self-organization of selfishness: Reinforcement learning shows how selfish behavior can emerge
+from agent-environment interaction dynamics
+- Attention in the mind’s eye: using the Navon attention task to track the way the grammatical
+structure of text passages modulate mental simulation of perspective
+- Recasting the pedagogy of derivations as loading of reality into mathematics
+- Talks on Role of Simulation in Classrooms
+
+
+## 📬 Get in Touch
+
+- Connect with me on [Gmail](notifysahil@gmail.com)
 
 <!--
-**aamirsahil/aamirsahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
