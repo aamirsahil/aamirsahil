@@ -16,9 +16,9 @@ I am an AI Engineer working for the startup Accioo. My academic interest are in 
 
 <!-- First row of 3 images -->
 <p align="center">
-  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/wsi.png?raw=true" width="30%" alt="Image 1 Subtitle" />
-  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/rl.png?raw=true" width="30%" alt="Image 2 Subtitle" />
-  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/football.png?raw=true" width="30%" alt="Image 3 Subtitle" />
+  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/wsi.png?raw=true" width="30%" height="30%" alt="Image 1 Subtitle" />
+  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/rl.png?raw=true" width="30%" height="30%" alt="Image 2 Subtitle" />
+  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/football.png?raw=true" width="30%" height="30%" alt="Image 3 Subtitle" />
 </p>
 
 <!-- Subtitles for the first row -->
@@ -30,8 +30,8 @@ I am an AI Engineer working for the startup Accioo. My academic interest are in 
 
 <!-- Second row of 2 images -->
 <p align="center">
-  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/bernoulli.png?raw=true" width="45%" alt="Image 4 Subtitle" />
-  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/vicsek.png?raw=true" width="45%" alt="Image 5 Subtitle" />
+  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/bernoulli.png?raw=true" width="45%" height="30%" alt="Image 4 Subtitle" />
+  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/vicsek.png?raw=true" width="45%" height="30%" alt="Image 5 Subtitle" />
 </p>
 
 <!-- Subtitles for the second row -->
