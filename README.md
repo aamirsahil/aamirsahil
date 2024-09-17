@@ -15,30 +15,34 @@ I am an AI Engineer working for the startup Accioo. My academic interest are in 
 ## Projects
 
 <!-- First row of 3 images -->
-<p align="center">
-  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/wsi.png?raw=true" width="30%" height="30px" alt="Image 1 Subtitle" />
-  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/rl.png?raw=true" width="30%" height="30px" alt="Image 2 Subtitle" />
-  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/football.png?raw=true" width="30%" height="30%" alt="Image 3 Subtitle" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/rl.png?raw=true" width="300px" height="300px" alt="rl" /><br />
+      <b>Foraging with Reinforcement Learning</b>
+    </td>
+    <td align="center" colspan="2">
+      <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/wsi.png?raw=true" width="300px" height="300px" alt="wsi" /><br />
+      <b>Whole Slide Image Segmentation</b>
+    </td>
+    <td align="center" colspan="2">
+      <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/football.png?raw=true" width="300px" height="300px" alt="football" /><br />
+      <b>Sports Match Analyzer</b>
+    </td>
+  </tr>
 
-<!-- Subtitles for the first row -->
-<p align="center">
-  <b>Image 1 Subtitle</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Image 2 Subtitle</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Image 3 Subtitle</b>
-</p>
-
-<!-- Second row of 2 images -->
-<p align="center">
-  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/bernoulli.png?raw=true" width="45%" height="30%" alt="Image 4 Subtitle" />
-  <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/vicsek.png?raw=true" width="45%" height="30%" alt="Image 5 Subtitle" />
-</p>
-
-<!-- Subtitles for the second row -->
-<p align="center">
-  <b>Image 4 Subtitle</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Image 5 Subtitle</b>
-</p>
+  <!-- Second row of 2 images -->
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/bernoulli.png?raw=true" width="350px" height="300px" alt="bernoulli" /><br />
+      <b>Bernoulli's Principle</b>
+    </td>
+    <td align="center" colspan="3">
+      <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/vicsek.png?raw=true" width="350px" height="300px" alt="vicsek" /><br />
+      <b>Vicsek Model</b>
+    </td>
+  </tr>
+</table>
 
 <!--
 ![cancer project]( "Whole Slide Image Segmentation")
