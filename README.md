@@ -8,7 +8,7 @@ I am an AI Engineer working for the startup Accioo. My academic interest are in 
 
 ## About Me
 
-- I'm currently an AI Enginner at Accioo.
+- I am an AI professional who is experienced with various machine learning and deep learning models.
 - I excel at converting mathematical theory into actionable insight.
 - I'm currently working on a game that captures the life of 18th century Kerala.
 
@@ -18,15 +18,15 @@ I am an AI Engineer working for the startup Accioo. My academic interest are in 
 <table align="center">
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/rl.webp?raw=true" width="300px" height="250px" alt="rl" /><br />
+      <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/rl.webp?raw=true" style="width: 100%; max-width: 300px; height: auto;" alt="rl" /><br />
       <b>Foraging with Reinforcement Learning</b>
     </td>
     <td align="center" colspan="2">
-      <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/wsi.webp?raw=true" width="300px" height="250px" alt="wsi" /><br />
+      <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/wsi.webp?raw=true" style="width: 100%; max-width: 300px; height: auto;" alt="wsi" /><br />
       <b>Whole Slide Image Segmentation</b>
     </td>
     <td align="center" colspan="2">
-      <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/vicsek.webp?raw=true" width="300px" height="250px" alt="vicsek" /><br />
+      <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/vicsek.webp?raw=true" style="width: 100%; max-width: 300px; height: auto;" alt="vicsek" /><br />
       <b>Vicsek Model</b>
     </td>
   </tr>
@@ -34,11 +34,11 @@ I am an AI Engineer working for the startup Accioo. My academic interest are in 
   <!-- Second row of 2 images -->
   <tr>
     <td align="center" colspan="3">
-      <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/bernoulli.webp?raw=true" width="400px" height="300px" alt="bernoulli" /><br />
+      <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/bernoulli.webp?raw=true" style="width: 100%; max-width: 400px; height: auto;" /><br />
       <b>Bernoulli's Principle</b>
     </td>
     <td align="center" colspan="3">
-        <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/football.webp?raw=true" width="400px" height="300px" alt="football" /><br />
+        <img src="https://github.com/aamirsahil/aamirsahil/blob/main/images/football.webp?raw=true" style="width: 100%; max-width: 400px; height: auto;" alt="football" /><br />
       <b>Sports Match Analyzer</b>
     </td>
   </tr>
