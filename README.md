@@ -10,7 +10,7 @@ I am an AI Engineer working for the startup Accioo. My academic interest are in 
 
 - I am an AI professional who is experienced with various machine learning and deep learning models.
 - I excel at converting mathematical theory into actionable insight.
-- I'm currently working on a game that captures the life of 18th century Kerala.
+- I'm currently working on a game that captures the life of Kerala.
 
 ## Projects
 
